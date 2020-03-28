@@ -22,6 +22,12 @@
 
 4.- ingresarla a github con su nombre, guardar
 
+## salir de la carpeta ssh
+
+## ir a la ruta donde se desea crear la carpeta donde estará unido a tu repositorio en github
+
+## crear la carpeta
+
 ## inicializar git.- git init
 
 ## agregar archivos.- git add .
