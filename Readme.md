@@ -6,9 +6,11 @@
 
 ## Generar llave => ssh-keygen -t rsa -b 4096 -C smartzmx@gmail.com
 
-## Revisar que llaves estan creadas y actualizarlas => eval "$(ssh-agent-s)"
+## Revisar que llaves estan creadas y actualizarlas => eval "$(ssh-agent -s)"
 
-## Agregar la llave creada => ssh-add~/.ssh/id_rsa 
+## te debe de regresar un pin
+
+## Agregar la llave creada => ssh-add ~/.ssh/id_rsa 
 
 ## crear un repositorio en github
 
